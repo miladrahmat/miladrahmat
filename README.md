@@ -1,8 +1,4 @@
-<!--
-<img width="1584" height="396" alt="Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/efcb7198-de95-4f2c-b63e-479cf81704c1" />
--->
-<img width="1536" height="1024" alt="Milad-header" src="https://github.com/user-attachments/assets/10ba531a-770d-404d-a2c6-2090ae43924d" />
-
+<img width="1584" height="396" alt="Abstract Technology Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/0c187ae4-24b7-4765-a6db-364072598698" />
 
 ## Hi there! I'm Milad 👋
 
@@ -10,8 +6,11 @@ I'm currently studying programming at [Hive Helsinki](https://www.hive.fi/en/), 
 
 Before diving into tech, I worked in customer service and sales — an experience that taught me how to communicate clearly, adapt quickly, and stay focused on solving real world problems.
 
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=miladrahmat&theme=dark&layout=compact" width="45%"/>
+### Tech skills
+
+<div align="right">
+ <img align="left" src="https://skillicons.dev/icons?i=c,cpp,javascript,react,bash,linux,git,vscode&perline=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladrahmat&theme=dark&layout=compact" width="38%"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladrahmat&theme=dark&layout=compact" />
 </div>
 
