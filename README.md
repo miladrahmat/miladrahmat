@@ -1,4 +1,8 @@
+<!--
 <img width="1584" height="396" alt="Black and White Modern Professional Sales and Marketing Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/efcb7198-de95-4f2c-b63e-479cf81704c1" />
+-->
+<img width="1536" height="1024" alt="Milad-header" src="https://github.com/user-attachments/assets/10ba531a-770d-404d-a2c6-2090ae43924d" />
+
 
 ## Hi there! I'm Milad 👋
 
