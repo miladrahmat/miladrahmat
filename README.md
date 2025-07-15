@@ -6,26 +6,16 @@ I'm currently studying programming at [Hive Helsinki](https://www.hive.fi/en/), 
 
 Before diving into tech, I worked in customer service and sales — an experience that taught me how to communicate clearly, adapt quickly, and stay focused on solving real world problems.
 
+---
+
 ### Tech skills
 
-<div align="right">
- <img align="left" src="https://skillicons.dev/icons?i=c,cpp,javascript,react,bash,linux,git,vscode&perline=5" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladrahmat&theme=dark&layout=compact" width="38%"/>
+<div>
+  <img align="left" src="https://skillicons.dev/icons?i=c,cpp,javascript,react,bash,linux,git,vscode&perline=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladrahmat&theme=dark&layout=compact" width="38%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladrahmat&theme=dark&layout=compact" />
 </div>
 
+---
 
-<!--
-**miladrahmat/miladrahmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am curious about new opportunities! Let's connect here or on [LinkedIn](https://www.linkedin.com/in/miladrahmat/)
