@@ -2,7 +2,7 @@
 
 ## Hi there! I'm Milad 👋
 
-I'm recently completed my programming studies at [Hive Helsinki](https://www.hive.fi/en/), a peer-to-peer software engineering school where I’ve built a strong foundation in low-level programming, problem-solving, and teamwork through hands-on, project-based learning.
+I've recently completed my programming studies at [Hive Helsinki](https://www.hive.fi/en/), a peer-to-peer software engineering school where I’ve built a strong foundation in low-level programming, problem-solving, and teamwork through hands-on, project-based learning.
 
 Before diving into tech, I worked in customer service and sales — an experience that taught me how to communicate clearly, adapt quickly, and stay focused on solving real world problems.
 
