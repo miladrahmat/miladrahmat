@@ -2,7 +2,7 @@
 
 ## Hi there! I'm Milad 👋
 
-I'm currently studying programming at [Hive Helsinki](https://www.hive.fi/en/), a peer-to-peer software engineering school where I’ve built a strong foundation in low-level programming, problem-solving, and teamwork through hands-on, project-based learning.
+I'm recently completed my programming studies at [Hive Helsinki](https://www.hive.fi/en/), a peer-to-peer software engineering school where I’ve built a strong foundation in low-level programming, problem-solving, and teamwork through hands-on, project-based learning.
 
 Before diving into tech, I worked in customer service and sales — an experience that taught me how to communicate clearly, adapt quickly, and stay focused on solving real world problems.
 
@@ -11,7 +11,7 @@ Before diving into tech, I worked in customer service and sales — an experienc
 ### Tech skills
 
 <div>
-  <img align="left" src="https://skillicons.dev/icons?i=c,cpp,javascript,react,bash,linux,git,vscode&perline=3" />
+  <img align="left" src="https://skillicons.dev/icons?i=c,cpp,typescript,react,bash,linux,git,vscode,docker&perline=3" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladrahmat&theme=dark&layout=compact" width="38%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladrahmat&theme=dark&layout=compact" />
 </div>
